@@ -12,14 +12,17 @@
 
 智能家居功能截图
 
-
+![image](cimg/Snipaste1.png)
 
 监控摄像头
 
+![image](cimg/Snipaste2.png)
 
 音乐播放器
 
-
+![image](cimg/Snipaste_3.png)
 
 天气预报
+
+![image](cimg/Snipaste_4.png)
 
